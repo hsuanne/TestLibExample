@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TestLibExample"
-include ':app'
+include ':app', 'Bluetooth-Demo:ToasterLibrary'

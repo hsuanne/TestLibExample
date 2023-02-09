@@ -1,0 +1,4 @@
+[submodule "Bluetooth-Demo"]
+	path = Bluetooth-Demo
+	url = https://github.com/hsuanne/Bluetooth-Demo.git
+	branch = master
