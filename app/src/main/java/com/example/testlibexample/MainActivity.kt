@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         ToasterMessage.toastMyMessage(this, "Successfully import library!!!")
+        ToasterMessage.logMyMessage("Successfully import library!!!")
     }
 }
